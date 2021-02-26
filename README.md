@@ -2,4 +2,6 @@
 Collection of audio tools that I use
 
 ## Tools
-- EQ_Regalia: First and second order filter for EQing
+- COMP_Giannoulis: Compressor implementation with variable attack/release, threshold, ratio and knee width
+- EQ_Regalia: First and second order IIR filter for notch/bell and shelf EQing 
+
